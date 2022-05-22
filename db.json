@@ -1,0 +1,414 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userName": "MeganRuth",
+      "location": "Des Moines,United States",
+      "content": [
+        {
+          "id": 132412412,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/1540258/pexels-photo-1540258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 2867956,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/1519753/pexels-photo-1519753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 0,
+          "fileType": "video/mp4",
+          "url": null
+        }
+      ],
+      "likeCount": 158,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 2,
+      "userName": "Ryan Klaus",
+      "location": "Italy",
+      "content": [
+        {
+          "id": 15799999,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/1138369/pexels-photo-1138369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 1,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/12180997/pexels-photo-12180997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 53,
+      "comment": ""
+    },
+    {
+      "id": 3,
+      "userName": "Athena",
+      "location": "Chihuahua, Mexico",
+      "content": [
+        {
+          "id": 169645635,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/12172012/pexels-photo-12172012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 169645635,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/9432772/pexels-photo-9432772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 79,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 4,
+      "userName": "Polina Kholodova",
+      "location": "Russian",
+      "content": [
+        {
+          "id": 1,
+          "fileType": "video/mp4",
+          "url": null
+        }
+      ],
+      "likeCount": 498,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 5,
+      "userName": "DastanKhdir",
+      "location": "Estes Park, United States",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/1436707/pexels-photo-1436707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 2543566,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/3217911/pexels-photo-3217911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 36453635624,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/4095483/pexels-photo-4095483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 79,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 6,
+      "userName": "Airam Dato-on",
+      "location": "United States",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/11668236/pexels-photo-11668236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 2543566,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/3820400/pexels-photo-3820400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 1054,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 7,
+      "userName": "Cristian Mudic",
+      "location": "İzmir",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/10027303/pexels-photo-10027303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 2543566,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/3699438/pexels-photo-3699438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 19,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 8,
+      "userName": "Dmitriy Causelove",
+      "location": "Россия",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/11890911/pexels-photo-11890911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 2543566,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/11890906/pexels-photo-11890906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 25649,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 9,
+      "userName": "Elene Rubstova",
+      "location": "Москва, Россия",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/12082493/pexels-photo-12082493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 2543566,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/9558898/pexels-photo-9558898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 79,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 10,
+      "userName": "Irina Demyanovskikh",
+      "location": "Paris, France",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/11086758/pexels-photo-11086758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 2543566,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/10581909/pexels-photo-10581909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 661,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 11,
+      "userName": "Darina Sati",
+      "location": "İzmir",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/11932919/pexels-photo-11932919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 2543566,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/9409481/pexels-photo-9409481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 1547,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 12,
+      "userName": "Boss Web",
+      "location": "England",
+      "content": [
+        {
+          "id": 2,
+          "fileType": "video/mp4",
+          "url": "https://images.pexels.com/photos/5697/restaurant-vintage-table-design.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 33,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 13,
+      "userName": "Zeeshaan Shabbir",
+      "location": "Iran",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/7258459/pexels-photo-7258459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 2543566,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/7258458/pexels-photo-7258458.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        }
+      ],
+      "likeCount": 719,
+      "comment": "Nice weekend!!"
+    },
+
+    {
+      "id": 14,
+      "userName": "Rahul Pandit",
+      "location": "Indian",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/10731972/pexels-photo-10731972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 2543566,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/1007000/pexels-photo-1007000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 204,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 15,
+      "userName": "Omer Zetina",
+      "location": "Mexico",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/12046302/pexels-photo-12046302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/1171054/pexels-photo-1171054.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        }
+      ],
+      "likeCount": 5439,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 16,
+      "userName": "Diana Smykova",
+      "location": "Australian",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/8815343/pexels-photo-8815343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/1545696/pexels-photo-1545696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 3,
+          "fileType": "video/mp4",
+          "url": null
+        }
+      ],
+      "likeCount": 2545,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 17,
+      "userName": "Lisa Fotias",
+      "location": "Mexico",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/12146278/pexels-photo-12146278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/109255/pexels-photo-109255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 321,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 18,
+      "userName": "Masha Raymers",
+      "location": "Finland",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/11639263/pexels-photo-11639263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/11407114/pexels-photo-11407114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 5439,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 19,
+      "userName": "Camille Robinson",
+      "location": "Spain",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/9836660/pexels-photo-9836660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/1171054/pexels-photo-1171054.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        }
+      ],
+      "likeCount": 24,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 20,
+      "userName": "Mikail Nilov",
+      "location": "Miami, United States",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/9720795/pexels-photo-9720795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/6835281/pexels-photo-6835281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 4,
+          "fileType": "video/mp4",
+          "url": null
+        }
+      ],
+      "likeCount": 23429,
+      "comment": "Nice weekend!!"
+    },
+    {
+      "id": 21,
+      "userName": "Johannes Planio",
+      "location": "England",
+      "content": [
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/4505018/pexels-photo-4505018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": 543253425,
+          "fileType": "image/jpeg",
+          "url": "https://images.pexels.com/photos/9090366/pexels-photo-9090366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "likeCount": 745,
+      "comment": "Nice weekend!!"
+    }
+  ]
+}
